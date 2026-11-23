@@ -48,11 +48,11 @@ jobs:
           echo "Répertoire courant : $(pwd)"
           test -f scripts/artistes_actifs_2026.py
           if [ -z "$ARTISTS_URL" ]; then
-            echo "ARTISTS_URL vide : lecture du fichier local data/artistes.json"
-            test -f data/artistes.json
-          else
-            echo "ARTISTS_URL défini : la base sera téléchargée."
+            echo "Erreur : la variable de dépôt ARTISTS_URL est vide ou absente."
+            echo "Crée-la dans Settings > Secrets and variables > Actions > Variables."
+            exit 1
           fi
+          echo "ARTISTS_URL défini : la base sera téléchargée."
 
       - name: Chercher les artistes actifs (shard ${{ matrix.shard }}/20)
         env:
@@ -61,7 +61,7 @@ jobs:
           SHARD_TOTAL: 20
           TARGET_YEAR: 2026
           # Variable du dépôt (Settings > Secrets and variables > Actions > Variables).
-          # Si elle n'existe pas, elle est vide et le script lit data/artistes.json.
+          # Obligatoire : lien vers le JSON brut de ta base d'artistes.
           ARTISTS_URL: ${{ vars.ARTISTS_URL }}
         run: |
           python -u scripts/artistes_actifs_2026.py
