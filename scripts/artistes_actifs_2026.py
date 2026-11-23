@@ -1,7 +1,7 @@
 """
 Filtre les artistes actifs en 2026.
 
-Pour chaque artiste de data/artistes.json, le script ouvre sa discographie
+Pour chaque artiste de ta base en ligne (lien ARTISTS_URL), le script ouvre sa discographie
 Spotify, regarde ses sorties les plus récentes et vérifie si l'une d'elles
 date de l'année cible (2026 par défaut). Si oui, l'artiste est enregistré
 dans data/artistes_actifs_2026.json (même format que artistes.json).
@@ -11,6 +11,7 @@ Utilisation :
     python artistes_actifs_2026.py --merge    # fusionne les shards (GitHub Actions)
 
 Variables d'environnement facultatives :
+    ARTISTS_URL               : lien vers la base d'artistes (JSON brut)
     SHARD_INDEX / SHARD_TOTAL : répartition entre plusieurs jobs
     TARGET_YEAR               : année à rechercher (2026 par défaut)
 """
@@ -37,12 +38,10 @@ from playwright.sync_api import sync_playwright
 
 
 ROOT_DIR = Path.cwd()
-ARTISTS_FILE = ROOT_DIR / "data" / "artistes.json"
-
-# Lien direct vers ta base d'artistes (JSON brut). Colle ton lien ici, ou
-# passe-le par la variable d'environnement ARTISTS_URL.
+# Lien direct vers ta base d'artistes (JSON brut, accessible sans connexion).
+# Colle ton lien ici, ou passe-le par la variable d'environnement ARTISTS_URL.
 # Exemple GitHub : https://raw.githubusercontent.com/TON_PSEUDO/TON_REPO/main/data/artistes.json
-# Si le lien est vide, le script retombe sur le fichier local data/artistes.json.
+# La base est lue UNIQUEMENT depuis ce lien : aucun fichier local n'est utilisé.
 ARTISTS_URL = os.environ.get("ARTISTS_URL", "https://pierre-012.github.io/spotify-releated-crawler/data/artistes.json")
 
 ACTIVE_FILE = ROOT_DIR / "data" / "artistes_actifs_2026.json"
@@ -197,23 +196,18 @@ def save_active_file(path: Path, artists: Dict[str, Dict[str, Any]]) -> None:
 # ======================================================================
 
 def fetch_artists_data() -> Any:
-    """Télécharge la base d'artistes depuis ARTISTS_URL (avec 3 tentatives).
-    Si ARTISTS_URL est vide, lit le fichier local à la place."""
+    """Télécharge la base d'artistes depuis ARTISTS_URL (avec 3 tentatives)."""
     url = (ARTISTS_URL or "").strip()
 
-    if not url:
-        log(f"[INFO] Lecture du fichier local : {ARTISTS_FILE}")
-
-        if not ARTISTS_FILE.exists():
-            raise FileNotFoundError(f"Fichier introuvable : {ARTISTS_FILE}")
-
-        with ARTISTS_FILE.open("r", encoding="utf-8") as file:
-            return json.load(file)
-
-    if "REMPLACE-MOI" in url:
+    if not url or "REMPLACE-MOI" in url:
         raise ValueError(
-            "Remplace ARTISTS_URL dans le script (ou définis la variable "
-            "d'environnement ARTISTS_URL) par le lien vers ta base."
+            "ARTISTS_URL est vide ou non renseigné. Mets le lien vers ta base "
+            "dans le script, ou définis la variable d'environnement ARTISTS_URL."
+        )
+
+    if not url.lower().startswith(("http://", "https://")):
+        raise ValueError(
+            f"ARTISTS_URL doit commencer par http:// ou https:// (reçu : {url})"
         )
 
     log(f"[INFO] Téléchargement de la base : {url}")
