@@ -42,7 +42,10 @@ ROOT_DIR = Path.cwd()
 # Colle ton lien ici, ou passe-le par la variable d'environnement ARTISTS_URL.
 # Exemple GitHub : https://raw.githubusercontent.com/TON_PSEUDO/TON_REPO/main/data/artistes.json
 # La base est lue UNIQUEMENT depuis ce lien : aucun fichier local n'est utilisé.
-ARTISTS_URL = os.environ.get("ARTISTS_URL", "https://pierre-012.github.io/spotify-releated-crawler/data/artistes.json")
+ARTISTS_URL = os.environ.get(
+    "ARTISTS_URL",
+    "https://pierre-012.github.io/spotify-releated-crawler/data/artistes.json",
+)
 
 ACTIVE_FILE = ROOT_DIR / "data" / "artistes_actifs_2026.json"
 SHARDS_DIR = ROOT_DIR / "data" / "shards"
