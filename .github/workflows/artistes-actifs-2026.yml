@@ -1,0 +1,142 @@
+name: Artistes actifs 2026
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-active-artists
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    name: Chercher les artistes actifs (shard ${{ matrix.shard }}/20)
+    runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Paris
+    timeout-minutes: 240
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Installer Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances Python
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install playwright beautifulsoup4
+
+      - name: Installer Chromium pour Playwright
+        run: |
+          python -m playwright install --with-deps chromium
+
+      - name: Vérifier la structure du dépôt
+        env:
+          ARTISTS_URL: ${{ vars.ARTISTS_URL }}
+        run: |
+          echo "Répertoire courant : $(pwd)"
+          test -f scripts/artistes_actifs_2026.py
+          if [ -z "$ARTISTS_URL" ]; then
+            echo "ARTISTS_URL vide : lecture du fichier local data/artistes.json"
+            test -f data/artistes.json
+          else
+            echo "ARTISTS_URL défini : la base sera téléchargée."
+          fi
+
+      - name: Chercher les artistes actifs (shard ${{ matrix.shard }}/20)
+        env:
+          PYTHONUNBUFFERED: "1"
+          SHARD_INDEX: ${{ matrix.shard }}
+          SHARD_TOTAL: 20
+          TARGET_YEAR: 2026
+          # Variable du dépôt (Settings > Secrets and variables > Actions > Variables).
+          # Si elle n'existe pas, elle est vide et le script lit data/artistes.json.
+          ARTISTS_URL: ${{ vars.ARTISTS_URL }}
+        run: |
+          python -u scripts/artistes_actifs_2026.py
+
+      - name: Publier le résultat du shard
+        uses: actions/upload-artifact@v4
+        with:
+          name: actifs-shard-${{ matrix.shard }}
+          path: data/shards/actifs_shard_${{ matrix.shard }}.json
+          if-no-files-found: ignore
+          retention-days: 1
+
+  merge:
+    name: Fusionner les shards et publier
+    needs: scan
+    runs-on: ubuntu-latest
+    env:
+      TZ: Europe/Paris
+    timeout-minutes: 30
+    if: always()
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Installer Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      # Le script importe ces modules au démarrage, même en mode --merge.
+      - name: Installer les dépendances Python
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install playwright beautifulsoup4
+
+      - name: Télécharger tous les shards
+        uses: actions/download-artifact@v4
+        with:
+          pattern: actifs-shard-*
+          path: data/shards
+          merge-multiple: true
+
+      - name: Vérifier les shards téléchargés
+        run: |
+          echo "Contenu de data/shards :"
+          ls -la data/shards || echo "Aucun shard reçu."
+
+      - name: Fusionner les shards dans artistes_actifs_2026.json
+        env:
+          PYTHONUNBUFFERED: "1"
+          TARGET_YEAR: 2026
+        run: |
+          python -u scripts/artistes_actifs_2026.py --merge
+
+      - name: Vérifier les modifications
+        id: changes
+        shell: bash
+        run: |
+          # git status détecte aussi un fichier tout nouveau (pas encore suivi par git)
+          if [ -z "$(git status --porcelain -- data/artistes_actifs_2026.json)" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Aucune modification détectée."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Modification de data/artistes_actifs_2026.json détectée."
+          fi
+
+      - name: Enregistrer les artistes actifs
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/artistes_actifs_2026.json
+          git commit -m "Mise à jour des artistes actifs en 2026"
+          git pull --rebase
+          git push
