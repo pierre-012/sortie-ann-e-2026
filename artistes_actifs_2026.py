@@ -43,7 +43,7 @@ ARTISTS_FILE = ROOT_DIR / "data" / "artistes.json"
 # passe-le par la variable d'environnement ARTISTS_URL.
 # Exemple GitHub : https://raw.githubusercontent.com/TON_PSEUDO/TON_REPO/main/data/artistes.json
 # Si le lien est vide, le script retombe sur le fichier local data/artistes.json.
-ARTISTS_URL = os.environ.get("ARTISTS_URL", "https://REMPLACE-MOI/artistes.json")
+ARTISTS_URL = os.environ.get("ARTISTS_URL", "https://pierre-012.github.io/spotify-releated-crawler/data/artistes.json")
 
 ACTIVE_FILE = ROOT_DIR / "data" / "artistes_actifs_2026.json"
 SHARDS_DIR = ROOT_DIR / "data" / "shards"
