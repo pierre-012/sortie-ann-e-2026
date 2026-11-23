@@ -43,7 +43,7 @@ jobs:
 
       - name: Vérifier la structure du dépôt
         env:
-          ARTISTS_URL: ${{ vars.ARTISTS_URL }}
+          ARTISTS_URL: ${{ vars.ARTISTS_URL || 'https://pierre-012.github.io/spotify-releated-crawler/data/artistes.json' }}
         run: |
           echo "Répertoire courant : $(pwd)"
           test -f scripts/artistes_actifs_2026.py
@@ -61,8 +61,9 @@ jobs:
           SHARD_TOTAL: 20
           TARGET_YEAR: 2026
           # Variable du dépôt (Settings > Secrets and variables > Actions > Variables).
-          # Obligatoire : lien vers le JSON brut de ta base d'artistes.
-          ARTISTS_URL: ${{ vars.ARTISTS_URL }}
+          # Par défaut : ta base sur GitHub Pages. Une variable de dépôt
+          # ARTISTS_URL, si elle existe, la remplace.
+          ARTISTS_URL: ${{ vars.ARTISTS_URL || 'https://pierre-012.github.io/spotify-releated-crawler/data/artistes.json' }}
         run: |
           python -u scripts/artistes_actifs_2026.py
 
