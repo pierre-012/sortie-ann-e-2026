@@ -44,7 +44,7 @@ ROOT_DIR = Path.cwd()
 # La base est lue UNIQUEMENT depuis ce lien : aucun fichier local n'est utilisé.
 ARTISTS_URL = os.environ.get(
     "ARTISTS_URL",
-    "https://pierre-012.github.io/spotify-releated-crawler/data/artistes_1.json",
+    "https://pierre-012.github.io/spotify-releated-crawler/data/artistes_2.json",
 )
 
 ACTIVE_FILE = ROOT_DIR / "data" / "artistes_actifs_2026.json"
