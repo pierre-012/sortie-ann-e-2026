@@ -1,7 +1,7 @@
 {
   "year": 2026,
-  "updated_at": "2026-11-24T10:28:04",
-  "count": 19363,
+  "updated_at": "2026-11-28T14:56:32",
+  "count": 19459,
   "artists": {
     "4PGsBRZbPoZAhrNsDEBcIC": {
       "id": "4PGsBRZbPoZAhrNsDEBcIC",
@@ -387261,6 +387261,1926 @@
         "name": "Batgirl",
         "url": "https://open.spotify.com/album/0jLPJwfvOyqO3zzaLo7lu4",
         "release_date": "2026-01-15"
+      }
+    },
+    "2XRBsaqqswVsWX5QJz7HDO": {
+      "id": "2XRBsaqqswVsWX5QJz7HDO",
+      "name": "FrenchCali",
+      "url": "https://open.spotify.com/intl-fr/artist/2XRBsaqqswVsWX5QJz7HDO",
+      "uri": "spotify:artist:2XRBsaqqswVsWX5QJz7HDO",
+      "monthly_listeners": 181,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/2XRBsaqqswVsWX5QJz7HDO"
+      },
+      "first_seen": "2026-09-01T12:44:20",
+      "last_seen": "2026-09-01T12:44:20",
+      "active_year": 2026,
+      "last_release": {
+        "id": "6LJmqT8Kosu9kdVr5WLxL3",
+        "name": "Prévenu",
+        "url": "https://open.spotify.com/album/6LJmqT8Kosu9kdVr5WLxL3",
+        "release_date": "2026-11-27"
+      }
+    },
+    "52M5T0P3Z5Fk3OmYe337dx": {
+      "id": "52M5T0P3Z5Fk3OmYe337dx",
+      "name": "Jok'R",
+      "url": "https://open.spotify.com/intl-fr/artist/52M5T0P3Z5Fk3OmYe337dx",
+      "uri": "spotify:artist:52M5T0P3Z5Fk3OmYe337dx",
+      "monthly_listeners": 1971,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/52M5T0P3Z5Fk3OmYe337dx"
+      },
+      "first_seen": "2026-09-06T15:38:47",
+      "last_seen": "2026-09-06T15:38:47",
+      "active_year": 2026,
+      "last_release": {
+        "id": "2EbDbjxl8CHCQjMaXi37TW",
+        "name": "KARNAGE",
+        "url": "https://open.spotify.com/album/2EbDbjxl8CHCQjMaXi37TW",
+        "release_date": "2026-11-28"
+      }
+    },
+    "0oH4LkqJY7dvc3eDVBMSY3": {
+      "id": "0oH4LkqJY7dvc3eDVBMSY3",
+      "name": "CRZ",
+      "url": "https://open.spotify.com/intl-fr/artist/0oH4LkqJY7dvc3eDVBMSY3",
+      "uri": "spotify:artist:0oH4LkqJY7dvc3eDVBMSY3",
+      "monthly_listeners": 16,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/0oH4LkqJY7dvc3eDVBMSY3"
+      },
+      "first_seen": "2026-09-06T14:54:59",
+      "last_seen": "2026-09-06T14:54:59",
+      "active_year": 2026,
+      "last_release": {
+        "id": "7ruZLHL3XGsLfqbo5DrDh4",
+        "name": "Cabeza",
+        "url": "https://open.spotify.com/album/7ruZLHL3XGsLfqbo5DrDh4",
+        "release_date": "2026-11-27"
+      }
+    },
+    "4yBFvfYLjdDEJHL4ZJaxOI": {
+      "id": "4yBFvfYLjdDEJHL4ZJaxOI",
+      "name": "Skovrann",
+      "url": "https://open.spotify.com/intl-fr/artist/4yBFvfYLjdDEJHL4ZJaxOI",
+      "uri": "spotify:artist:4yBFvfYLjdDEJHL4ZJaxOI",
+      "monthly_listeners": 18,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/4yBFvfYLjdDEJHL4ZJaxOI"
+      },
+      "first_seen": "2026-09-06T17:19:58",
+      "last_seen": "2026-09-06T17:19:58",
+      "active_year": 2026,
+      "last_release": {
+        "id": "05gLMdx7LDLVhFVj4gNTWi",
+        "name": "PARTY IN GOTHAM",
+        "url": "https://open.spotify.com/album/05gLMdx7LDLVhFVj4gNTWi",
+        "release_date": "2026-11-25"
+      }
+    },
+    "5iRJSxMoLHJe9wku1oFJla": {
+      "id": "5iRJSxMoLHJe9wku1oFJla",
+      "name": "Omie$",
+      "url": "https://open.spotify.com/intl-fr/artist/5iRJSxMoLHJe9wku1oFJla",
+      "uri": "spotify:artist:5iRJSxMoLHJe9wku1oFJla",
+      "monthly_listeners": 50,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/5iRJSxMoLHJe9wku1oFJla"
+      },
+      "first_seen": "2026-09-07T13:42:26",
+      "last_seen": "2026-09-07T13:42:26",
+      "active_year": 2026,
+      "last_release": {
+        "id": "0Cp9n20K9CLjCiB410Zj9I",
+        "name": "TROIS POINTS",
+        "url": "https://open.spotify.com/album/0Cp9n20K9CLjCiB410Zj9I",
+        "release_date": "2026-11-26"
+      }
+    },
+    "5msLhTEDaac2qkZodM9Cat": {
+      "id": "5msLhTEDaac2qkZodM9Cat",
+      "name": "Triplo Jé",
+      "url": "https://open.spotify.com/intl-fr/artist/5msLhTEDaac2qkZodM9Cat",
+      "uri": "spotify:artist:5msLhTEDaac2qkZodM9Cat",
+      "monthly_listeners": 31,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/5msLhTEDaac2qkZodM9Cat"
+      },
+      "first_seen": "2026-09-21T02:54:31+00:00",
+      "last_seen": "2026-09-21T02:54:31+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "3CEB9O5y6P0t74l1HhWSRn",
+        "name": "Salto",
+        "url": "https://open.spotify.com/album/3CEB9O5y6P0t74l1HhWSRn",
+        "release_date": "2026-11-27"
+      }
+    },
+    "39BnxORbNynpygfZx60QLi": {
+      "id": "39BnxORbNynpygfZx60QLi",
+      "name": "Meloddy",
+      "url": "https://open.spotify.com/intl-fr/artist/39BnxORbNynpygfZx60QLi",
+      "uri": "spotify:artist:39BnxORbNynpygfZx60QLi",
+      "monthly_listeners": 24,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/39BnxORbNynpygfZx60QLi"
+      },
+      "first_seen": "2026-09-27T22:12:56+00:00",
+      "last_seen": "2026-09-27T22:12:56+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "6cIj9G4zoVXdLMv4mO8Oqt",
+        "name": "Eko Party Freestyle",
+        "url": "https://open.spotify.com/album/6cIj9G4zoVXdLMv4mO8Oqt",
+        "release_date": "2026-11-27"
+      }
+    },
+    "1wRP9PfXaob5jikvKaQ9P2": {
+      "id": "1wRP9PfXaob5jikvKaQ9P2",
+      "name": "Richwizard",
+      "url": "https://open.spotify.com/intl-fr/artist/1wRP9PfXaob5jikvKaQ9P2",
+      "uri": "spotify:artist:1wRP9PfXaob5jikvKaQ9P2",
+      "monthly_listeners": 55,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/1wRP9PfXaob5jikvKaQ9P2"
+      },
+      "first_seen": "2026-09-23T16:56:36+00:00",
+      "last_seen": "2026-09-23T16:56:36+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "5lClFKwAFGH6ePr3I0Al9a",
+        "name": "Red Flaq",
+        "url": "https://open.spotify.com/album/5lClFKwAFGH6ePr3I0Al9a",
+        "release_date": "2026-11-26"
+      }
+    },
+    "4HxF58nHJqUxg81xTGSioI": {
+      "id": "4HxF58nHJqUxg81xTGSioI",
+      "name": "Titaro",
+      "url": "https://open.spotify.com/intl-fr/artist/4HxF58nHJqUxg81xTGSioI",
+      "uri": "spotify:artist:4HxF58nHJqUxg81xTGSioI",
+      "monthly_listeners": 33,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/4HxF58nHJqUxg81xTGSioI"
+      },
+      "first_seen": "2026-09-24T18:58:08+00:00",
+      "last_seen": "2026-09-24T18:58:08+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "0sZsWveEpbmOeRkM9md2TX",
+        "name": "Dolore",
+        "url": "https://open.spotify.com/album/0sZsWveEpbmOeRkM9md2TX",
+        "release_date": "2026-11-27"
+      }
+    },
+    "6L7diUOZYJwjq0I0Nmoe5C": {
+      "id": "6L7diUOZYJwjq0I0Nmoe5C",
+      "name": "99 Madness",
+      "url": "https://open.spotify.com/intl-fr/artist/6L7diUOZYJwjq0I0Nmoe5C",
+      "uri": "spotify:artist:6L7diUOZYJwjq0I0Nmoe5C",
+      "monthly_listeners": 29,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/6L7diUOZYJwjq0I0Nmoe5C"
+      },
+      "first_seen": "2026-09-26T17:40:40+00:00",
+      "last_seen": "2026-09-26T17:40:40+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "5F1omrHKG0eSxZqTiQEupq",
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/5F1omrHKG0eSxZqTiQEupq",
+        "release_date": "2026-11-27"
+      }
+    },
+    "6qtFbF2lZSP1zpVz4G0YwR": {
+      "id": "6qtFbF2lZSP1zpVz4G0YwR",
+      "name": "J.p.d",
+      "url": "https://open.spotify.com/intl-fr/artist/6qtFbF2lZSP1zpVz4G0YwR",
+      "uri": "spotify:artist:6qtFbF2lZSP1zpVz4G0YwR",
+      "monthly_listeners": 19,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/6qtFbF2lZSP1zpVz4G0YwR"
+      },
+      "first_seen": "2026-09-30T00:22:07+00:00",
+      "last_seen": "2026-09-30T00:22:07+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "6XA47KDhj9WgUx0EbvLsNK",
+        "name": "Mr. Barry",
+        "url": "https://open.spotify.com/album/6XA47KDhj9WgUx0EbvLsNK",
+        "release_date": "2026-11-27"
+      }
+    },
+    "6c2DpsisNopX24uJzjAf1m": {
+      "id": "6c2DpsisNopX24uJzjAf1m",
+      "name": "Benigram",
+      "url": "https://open.spotify.com/intl-fr/artist/6c2DpsisNopX24uJzjAf1m",
+      "uri": "spotify:artist:6c2DpsisNopX24uJzjAf1m",
+      "monthly_listeners": 45,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/6c2DpsisNopX24uJzjAf1m"
+      },
+      "first_seen": "2026-09-11T21:05:41",
+      "last_seen": "2026-09-11T21:05:41",
+      "active_year": 2026,
+      "last_release": {
+        "id": "375xSPsafylKKoc9fqRip4",
+        "name": "Li Dounia",
+        "url": "https://open.spotify.com/album/375xSPsafylKKoc9fqRip4",
+        "release_date": "2026-11-27"
+      }
+    },
+    "1PLdtfa1JKWiHvSBUOFwUs": {
+      "id": "1PLdtfa1JKWiHvSBUOFwUs",
+      "name": "Osmoz",
+      "url": "https://open.spotify.com/intl-fr/artist/1PLdtfa1JKWiHvSBUOFwUs",
+      "uri": "spotify:artist:1PLdtfa1JKWiHvSBUOFwUs",
+      "monthly_listeners": 59,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/1PLdtfa1JKWiHvSBUOFwUs"
+      },
+      "first_seen": "2026-09-11T20:06:14",
+      "last_seen": "2026-09-11T20:06:14",
+      "active_year": 2026,
+      "last_release": {
+        "id": "6JgyqjDB6p4jALxl4i9QaU",
+        "name": "LVDV",
+        "url": "https://open.spotify.com/album/6JgyqjDB6p4jALxl4i9QaU",
+        "release_date": "2026-11-26"
+      }
+    },
+    "6Y6I3ggHew5tvxSJseeKWa": {
+      "id": "6Y6I3ggHew5tvxSJseeKWa",
+      "name": "KidBlaize",
+      "url": "https://open.spotify.com/intl-fr/artist/6Y6I3ggHew5tvxSJseeKWa",
+      "uri": "spotify:artist:6Y6I3ggHew5tvxSJseeKWa",
+      "monthly_listeners": 28,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/6Y6I3ggHew5tvxSJseeKWa"
+      },
+      "first_seen": "2026-09-24T19:06:07+00:00",
+      "last_seen": "2026-09-24T19:06:07+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "5qFcB9VJ4A85AQppMdK8Uu",
+        "name": "Shuga",
+        "url": "https://open.spotify.com/album/5qFcB9VJ4A85AQppMdK8Uu",
+        "release_date": "2026-11-27"
+      }
+    },
+    "3zuG9YJgmtfYvc7eWTTyu9": {
+      "id": "3zuG9YJgmtfYvc7eWTTyu9",
+      "name": "Remedy Kongwe",
+      "url": "https://open.spotify.com/intl-fr/artist/3zuG9YJgmtfYvc7eWTTyu9",
+      "uri": "spotify:artist:3zuG9YJgmtfYvc7eWTTyu9",
+      "monthly_listeners": 35,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/3zuG9YJgmtfYvc7eWTTyu9"
+      },
+      "first_seen": "2026-09-25T01:53:38+00:00",
+      "last_seen": "2026-09-25T01:53:38+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "0ht1FTyLVUYhUGstxMOZqu",
+        "name": "Ni Mwiza",
+        "url": "https://open.spotify.com/album/0ht1FTyLVUYhUGstxMOZqu",
+        "release_date": "2026-11-25"
+      }
+    },
+    "5fq0cLyshMIZm8owEEJi0m": {
+      "id": "5fq0cLyshMIZm8owEEJi0m",
+      "name": "TVNESHI",
+      "url": "https://open.spotify.com/intl-fr/artist/5fq0cLyshMIZm8owEEJi0m",
+      "uri": "spotify:artist:5fq0cLyshMIZm8owEEJi0m",
+      "monthly_listeners": 7,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/5fq0cLyshMIZm8owEEJi0m"
+      },
+      "first_seen": "2026-09-25T22:36:43+00:00",
+      "last_seen": "2026-09-25T22:36:43+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "3CzprOjakwv2uU6QNDx8Ln",
+        "name": ".LES LARMES DANS LA PLUIE",
+        "url": "https://open.spotify.com/album/3CzprOjakwv2uU6QNDx8Ln",
+        "release_date": "2026-11-27"
+      }
+    },
+    "3ur3rZaK8q2P75SG0iDhXJ": {
+      "id": "3ur3rZaK8q2P75SG0iDhXJ",
+      "name": "Abbah Abbah",
+      "url": "https://open.spotify.com/intl-fr/artist/3ur3rZaK8q2P75SG0iDhXJ",
+      "uri": "spotify:artist:3ur3rZaK8q2P75SG0iDhXJ",
+      "monthly_listeners": 792,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/3ur3rZaK8q2P75SG0iDhXJ"
+      },
+      "first_seen": "2026-09-07T23:08:24",
+      "last_seen": "2026-09-07T23:08:24",
+      "active_year": 2026,
+      "last_release": {
+        "id": "6Ha3WFzfHpyt4i63ypyUXN",
+        "name": "OG",
+        "url": "https://open.spotify.com/album/6Ha3WFzfHpyt4i63ypyUXN",
+        "release_date": "2026-11-27"
+      }
+    },
+    "13CzbVBsLPJ8WcR6TDmVv9": {
+      "id": "13CzbVBsLPJ8WcR6TDmVv9",
+      "name": "Sakro100",
+      "url": "https://open.spotify.com/intl-fr/artist/13CzbVBsLPJ8WcR6TDmVv9",
+      "uri": "spotify:artist:13CzbVBsLPJ8WcR6TDmVv9",
+      "monthly_listeners": 10033,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/13CzbVBsLPJ8WcR6TDmVv9"
+      },
+      "first_seen": "2026-09-17T16:15:41",
+      "last_seen": "2026-09-17T16:15:41",
+      "active_year": 2026,
+      "last_release": {
+        "id": "3dDB233WANgYZ7jBenJwgc",
+        "name": "DA MATTINO A SERA",
+        "url": "https://open.spotify.com/album/3dDB233WANgYZ7jBenJwgc",
+        "release_date": "2026-11-27"
+      }
+    },
+    "3zYL7Wx00Cl9UMVeYqWLq3": {
+      "id": "3zYL7Wx00Cl9UMVeYqWLq3",
+      "name": "iNeyt Drayghun",
+      "url": "https://open.spotify.com/intl-fr/artist/3zYL7Wx00Cl9UMVeYqWLq3",
+      "uri": "spotify:artist:3zYL7Wx00Cl9UMVeYqWLq3",
+      "monthly_listeners": 7,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/3zYL7Wx00Cl9UMVeYqWLq3"
+      },
+      "first_seen": "2026-09-23T23:33:10+00:00",
+      "last_seen": "2026-09-23T23:33:10+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "2IESg58B4AId9ZGwoBUWAl",
+        "name": "SAUCY",
+        "url": "https://open.spotify.com/album/2IESg58B4AId9ZGwoBUWAl",
+        "release_date": "2026-11-26"
+      }
+    },
+    "6J2gzKuDcn4cdkVUY7nXCZ": {
+      "id": "6J2gzKuDcn4cdkVUY7nXCZ",
+      "name": "Ash9x",
+      "url": "https://open.spotify.com/intl-fr/artist/6J2gzKuDcn4cdkVUY7nXCZ",
+      "uri": "spotify:artist:6J2gzKuDcn4cdkVUY7nXCZ",
+      "monthly_listeners": 7,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/6J2gzKuDcn4cdkVUY7nXCZ"
+      },
+      "first_seen": "2026-09-25T07:55:21+00:00",
+      "last_seen": "2026-09-25T07:55:21+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "1ApROJqAcm9M0f1Xh20tHp",
+        "name": "FUCK, I WASTED TIME",
+        "url": "https://open.spotify.com/album/1ApROJqAcm9M0f1Xh20tHp",
+        "release_date": "2026-11-27"
+      }
+    },
+    "3AvkVCiWpBcuAU5oY5KwqV": {
+      "id": "3AvkVCiWpBcuAU5oY5KwqV",
+      "name": "Sckratsh",
+      "url": "https://open.spotify.com/intl-fr/artist/3AvkVCiWpBcuAU5oY5KwqV",
+      "uri": "spotify:artist:3AvkVCiWpBcuAU5oY5KwqV",
+      "monthly_listeners": 41,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/3AvkVCiWpBcuAU5oY5KwqV"
+      },
+      "first_seen": "2026-09-26T01:20:37+00:00",
+      "last_seen": "2026-09-26T01:20:37+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "3F69sgSM2zyo18ObUMcy4R",
+        "name": "AÚN",
+        "url": "https://open.spotify.com/album/3F69sgSM2zyo18ObUMcy4R",
+        "release_date": "2026-11-27"
+      }
+    },
+    "3GCfIxbLRaFyfzKTigijrp": {
+      "id": "3GCfIxbLRaFyfzKTigijrp",
+      "name": "Mito LaCalidad",
+      "url": "https://open.spotify.com/intl-fr/artist/3GCfIxbLRaFyfzKTigijrp",
+      "uri": "spotify:artist:3GCfIxbLRaFyfzKTigijrp",
+      "monthly_listeners": 18,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/3GCfIxbLRaFyfzKTigijrp"
+      },
+      "first_seen": "2026-09-11T18:31:28",
+      "last_seen": "2026-09-11T18:31:28",
+      "active_year": 2026,
+      "last_release": {
+        "id": "6t56cpxJyusJeEdzlvKaWu",
+        "name": "PONA NINI ?",
+        "url": "https://open.spotify.com/album/6t56cpxJyusJeEdzlvKaWu",
+        "release_date": "2026-11-25"
+      }
+    },
+    "4T3fWCCfO9RYvrC1o1ayoe": {
+      "id": "4T3fWCCfO9RYvrC1o1ayoe",
+      "name": "Kosmo",
+      "url": "https://open.spotify.com/intl-fr/artist/4T3fWCCfO9RYvrC1o1ayoe",
+      "uri": "spotify:artist:4T3fWCCfO9RYvrC1o1ayoe",
+      "monthly_listeners": 11,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/4T3fWCCfO9RYvrC1o1ayoe"
+      },
+      "first_seen": "2026-09-10T15:07:46",
+      "last_seen": "2026-09-10T15:07:46",
+      "active_year": 2026,
+      "last_release": {
+        "id": "2DvHNIt0srGEJoHFt9i2K6",
+        "name": "Ferme-la",
+        "url": "https://open.spotify.com/album/2DvHNIt0srGEJoHFt9i2K6",
+        "release_date": "2026-11-23"
+      }
+    },
+    "4LuLF5H9fe5ViyDQb9Zxmt": {
+      "id": "4LuLF5H9fe5ViyDQb9Zxmt",
+      "name": "Key Largo",
+      "url": "https://open.spotify.com/intl-fr/artist/4LuLF5H9fe5ViyDQb9Zxmt",
+      "uri": "spotify:artist:4LuLF5H9fe5ViyDQb9Zxmt",
+      "monthly_listeners": 72076,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/4LuLF5H9fe5ViyDQb9Zxmt"
+      },
+      "first_seen": "2026-09-24T00:17:52+00:00",
+      "last_seen": "2026-09-24T00:17:52+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "2mp5gOpCVONAqrz4LiIfDP",
+        "name": "SOUS X",
+        "url": "https://open.spotify.com/album/2mp5gOpCVONAqrz4LiIfDP",
+        "release_date": "2026-04-10"
+      }
+    },
+    "2xU95TpMdI0oJQPDgBmBj1": {
+      "id": "2xU95TpMdI0oJQPDgBmBj1",
+      "name": "Hanan Gambit",
+      "url": "https://open.spotify.com/intl-fr/artist/2xU95TpMdI0oJQPDgBmBj1",
+      "uri": "spotify:artist:2xU95TpMdI0oJQPDgBmBj1",
+      "monthly_listeners": 28,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/2xU95TpMdI0oJQPDgBmBj1"
+      },
+      "first_seen": "2026-09-24T22:49:29+00:00",
+      "last_seen": "2026-09-24T22:49:29+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "1lTJLnUgsrTkyL1K2TzIBG",
+        "name": "On The Radar",
+        "url": "https://open.spotify.com/album/1lTJLnUgsrTkyL1K2TzIBG",
+        "release_date": "2026-11-27"
+      }
+    },
+    "4HOIPg6GtldOu52vDNDoTS": {
+      "id": "4HOIPg6GtldOu52vDNDoTS",
+      "name": "REECE",
+      "url": "https://open.spotify.com/intl-fr/artist/4HOIPg6GtldOu52vDNDoTS",
+      "uri": "spotify:artist:4HOIPg6GtldOu52vDNDoTS",
+      "monthly_listeners": 44,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/4HOIPg6GtldOu52vDNDoTS"
+      },
+      "first_seen": "2026-09-24T22:12:44+00:00",
+      "last_seen": "2026-09-24T22:12:44+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "43fJBBwNAzsKm10NOwAtLr",
+        "name": "NR. 1",
+        "url": "https://open.spotify.com/album/43fJBBwNAzsKm10NOwAtLr",
+        "release_date": "2026-11-27"
+      }
+    },
+    "2yp45bemW1b28PbP2thwZN": {
+      "id": "2yp45bemW1b28PbP2thwZN",
+      "name": "FACT ZAMANI",
+      "url": "https://open.spotify.com/intl-fr/artist/2yp45bemW1b28PbP2thwZN",
+      "uri": "spotify:artist:2yp45bemW1b28PbP2thwZN",
+      "monthly_listeners": 338,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/2yp45bemW1b28PbP2thwZN"
+      },
+      "first_seen": "2026-09-26T22:41:35+00:00",
+      "last_seen": "2026-09-26T22:41:35+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "5NARoV7LuZRBTtGzZZMyiy",
+        "name": "Ebyongambaho",
+        "url": "https://open.spotify.com/album/5NARoV7LuZRBTtGzZZMyiy",
+        "release_date": "2026-11-28"
+      }
+    },
+    "1UjVmri05nWP43YjUevFVa": {
+      "id": "1UjVmri05nWP43YjUevFVa",
+      "name": "Defko",
+      "url": "https://open.spotify.com/intl-fr/artist/1UjVmri05nWP43YjUevFVa",
+      "uri": "spotify:artist:1UjVmri05nWP43YjUevFVa",
+      "monthly_listeners": 20,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/1UjVmri05nWP43YjUevFVa"
+      },
+      "first_seen": "2026-08-30T15:06:21",
+      "last_seen": "2026-08-30T15:06:21",
+      "active_year": 2026,
+      "last_release": {
+        "id": "641F9S4CdD4sNzsMm8BZjO",
+        "name": "Mamacita",
+        "url": "https://open.spotify.com/album/641F9S4CdD4sNzsMm8BZjO",
+        "release_date": "2026-07-07"
+      }
+    },
+    "1TnfKWcvCoqO0CPvPFslOL": {
+      "id": "1TnfKWcvCoqO0CPvPFslOL",
+      "name": "Blacksess",
+      "url": "https://open.spotify.com/intl-fr/artist/1TnfKWcvCoqO0CPvPFslOL",
+      "uri": "spotify:artist:1TnfKWcvCoqO0CPvPFslOL",
+      "monthly_listeners": 5,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/1TnfKWcvCoqO0CPvPFslOL"
+      },
+      "first_seen": "2026-09-01T16:05:46",
+      "last_seen": "2026-09-01T16:05:46",
+      "active_year": 2026,
+      "last_release": {
+        "id": "3049FHash63Vz1nEY0O7Q0",
+        "name": "Asesino",
+        "url": "https://open.spotify.com/album/3049FHash63Vz1nEY0O7Q0",
+        "release_date": "2026-11-27"
+      }
+    },
+    "0iw7t9RZvgB3iYiIrTQJsV": {
+      "id": "0iw7t9RZvgB3iYiIrTQJsV",
+      "name": "Melro_off",
+      "url": "https://open.spotify.com/intl-fr/artist/0iw7t9RZvgB3iYiIrTQJsV",
+      "uri": "spotify:artist:0iw7t9RZvgB3iYiIrTQJsV",
+      "monthly_listeners": 16,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/0iw7t9RZvgB3iYiIrTQJsV"
+      },
+      "first_seen": "2026-09-17T12:36:22",
+      "last_seen": "2026-09-17T12:36:22",
+      "active_year": 2026,
+      "last_release": {
+        "id": "2ksfOksnE4BHjPr0fSoh7L",
+        "name": "5 Etoile",
+        "url": "https://open.spotify.com/album/2ksfOksnE4BHjPr0fSoh7L",
+        "release_date": "2026-11-27"
+      }
+    },
+    "1DtyIVulBM6kELYF9clsrn": {
+      "id": "1DtyIVulBM6kELYF9clsrn",
+      "name": "Peila",
+      "url": "https://open.spotify.com/intl-fr/artist/1DtyIVulBM6kELYF9clsrn",
+      "uri": "spotify:artist:1DtyIVulBM6kELYF9clsrn",
+      "monthly_listeners": 12,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/1DtyIVulBM6kELYF9clsrn"
+      },
+      "first_seen": "2026-09-24T22:32:21+00:00",
+      "last_seen": "2026-09-24T22:32:21+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "68NyYOlgPJX4J7yzZTEtWy",
+        "name": "3 a.m.",
+        "url": "https://open.spotify.com/album/68NyYOlgPJX4J7yzZTEtWy",
+        "release_date": "2026-11-25"
+      }
+    },
+    "2BduP1FBhdEyot7xzNEGT4": {
+      "id": "2BduP1FBhdEyot7xzNEGT4",
+      "name": "Soye",
+      "url": "https://open.spotify.com/intl-fr/artist/2BduP1FBhdEyot7xzNEGT4",
+      "uri": "spotify:artist:2BduP1FBhdEyot7xzNEGT4",
+      "monthly_listeners": 11,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/2BduP1FBhdEyot7xzNEGT4"
+      },
+      "first_seen": "2026-09-25T13:44:18+00:00",
+      "last_seen": "2026-09-25T13:44:18+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "7iWZcOSRnIF0FfeiIkbKvT",
+        "name": "ONLY YOU",
+        "url": "https://open.spotify.com/album/7iWZcOSRnIF0FfeiIkbKvT",
+        "release_date": "2026-11-27"
+      }
+    },
+    "3LdcrPp3fPInriBrJd6A9D": {
+      "id": "3LdcrPp3fPInriBrJd6A9D",
+      "name": "Jankat",
+      "url": "https://open.spotify.com/intl-fr/artist/3LdcrPp3fPInriBrJd6A9D",
+      "uri": "spotify:artist:3LdcrPp3fPInriBrJd6A9D",
+      "monthly_listeners": 12,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/3LdcrPp3fPInriBrJd6A9D"
+      },
+      "first_seen": "2026-09-25T08:12:25+00:00",
+      "last_seen": "2026-09-25T08:12:25+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "4uMVNmfBMtTtbYmDWbeZHz",
+        "name": "YORUMA KAPALI",
+        "url": "https://open.spotify.com/album/4uMVNmfBMtTtbYmDWbeZHz",
+        "release_date": "2026-11-27"
+      }
+    },
+    "1rE18zxL0BzuNH8mEHTCQC": {
+      "id": "1rE18zxL0BzuNH8mEHTCQC",
+      "name": "Iaxn",
+      "url": "https://open.spotify.com/intl-fr/artist/1rE18zxL0BzuNH8mEHTCQC",
+      "uri": "spotify:artist:1rE18zxL0BzuNH8mEHTCQC",
+      "monthly_listeners": 45,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/1rE18zxL0BzuNH8mEHTCQC"
+      },
+      "first_seen": "2026-09-27T01:36:27+00:00",
+      "last_seen": "2026-09-27T01:36:27+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "35TjU3YRQQBM1Vh5EqliiS",
+        "name": "SI TU M LLAMAS",
+        "url": "https://open.spotify.com/album/35TjU3YRQQBM1Vh5EqliiS",
+        "release_date": "2026-04-10"
+      }
+    },
+    "0UKPLo8Zg96pnTUIO3qt9J": {
+      "id": "0UKPLo8Zg96pnTUIO3qt9J",
+      "name": "Mael Say",
+      "url": "https://open.spotify.com/intl-fr/artist/0UKPLo8Zg96pnTUIO3qt9J",
+      "uri": "spotify:artist:0UKPLo8Zg96pnTUIO3qt9J",
+      "monthly_listeners": 94,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/0UKPLo8Zg96pnTUIO3qt9J"
+      },
+      "first_seen": "2026-08-30T14:39:23",
+      "last_seen": "2026-08-30T14:39:23",
+      "active_year": 2026,
+      "last_release": {
+        "id": "1SKInvaolHcg3TVpr8mbSM",
+        "name": "Un plein",
+        "url": "https://open.spotify.com/album/1SKInvaolHcg3TVpr8mbSM",
+        "release_date": "2026-09-10"
+      }
+    },
+    "46CcoGE30LeXMeOFGDAUg7": {
+      "id": "46CcoGE30LeXMeOFGDAUg7",
+      "name": "NOKA",
+      "url": "https://open.spotify.com/intl-fr/artist/46CcoGE30LeXMeOFGDAUg7",
+      "uri": "spotify:artist:46CcoGE30LeXMeOFGDAUg7",
+      "monthly_listeners": 201,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/46CcoGE30LeXMeOFGDAUg7"
+      },
+      "first_seen": "2026-08-31T11:23:25",
+      "last_seen": "2026-08-31T11:23:25",
+      "active_year": 2026,
+      "last_release": {
+        "id": "5CIL0oNoQc0eXXA44nAp1t",
+        "name": "Vent du nord",
+        "url": "https://open.spotify.com/album/5CIL0oNoQc0eXXA44nAp1t",
+        "release_date": "2026-11-27"
+      }
+    },
+    "3fDr8YSkgiCahOsmKxGARh": {
+      "id": "3fDr8YSkgiCahOsmKxGARh",
+      "name": "Fvbb",
+      "url": "https://open.spotify.com/intl-fr/artist/3fDr8YSkgiCahOsmKxGARh",
+      "uri": "spotify:artist:3fDr8YSkgiCahOsmKxGARh",
+      "monthly_listeners": 23,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/3fDr8YSkgiCahOsmKxGARh"
+      },
+      "first_seen": "2026-09-21T15:08:25+00:00",
+      "last_seen": "2026-09-21T15:08:25+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "72uNEOLY7TdQ4zgcjM1YTf",
+        "name": "Kisu Kisu",
+        "url": "https://open.spotify.com/album/72uNEOLY7TdQ4zgcjM1YTf",
+        "release_date": "2026-10-08"
+      }
+    },
+    "7LRglZAw2zA81g9KthRCS0": {
+      "id": "7LRglZAw2zA81g9KthRCS0",
+      "name": "Blvd380",
+      "url": "https://open.spotify.com/intl-fr/artist/7LRglZAw2zA81g9KthRCS0",
+      "uri": "spotify:artist:7LRglZAw2zA81g9KthRCS0",
+      "monthly_listeners": 38072,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/7LRglZAw2zA81g9KthRCS0"
+      },
+      "first_seen": "2026-09-23T06:10:43+00:00",
+      "last_seen": "2026-09-23T06:10:43+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "7r2HrLYTEqENEPB8zlzWPs",
+        "name": "PREMIER RANG",
+        "url": "https://open.spotify.com/album/7r2HrLYTEqENEPB8zlzWPs",
+        "release_date": "2026-11-27"
+      }
+    },
+    "6xlBjbph4rZdr1XbVs6LmG": {
+      "id": "6xlBjbph4rZdr1XbVs6LmG",
+      "name": "Francis Friz",
+      "url": "https://open.spotify.com/intl-fr/artist/6xlBjbph4rZdr1XbVs6LmG",
+      "uri": "spotify:artist:6xlBjbph4rZdr1XbVs6LmG",
+      "monthly_listeners": 36,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/6xlBjbph4rZdr1XbVs6LmG"
+      },
+      "first_seen": "2026-09-24T22:57:31+00:00",
+      "last_seen": "2026-09-24T22:57:31+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "28ybSKCOyfTvOLDBF5PBoQ",
+        "name": "17 Boardman St.",
+        "url": "https://open.spotify.com/album/28ybSKCOyfTvOLDBF5PBoQ",
+        "release_date": "2026-11-28"
+      }
+    },
+    "2IbY4ReOysoyohYCTy0cZs": {
+      "id": "2IbY4ReOysoyohYCTy0cZs",
+      "name": "Nigz",
+      "url": "https://open.spotify.com/intl-fr/artist/2IbY4ReOysoyohYCTy0cZs",
+      "uri": "spotify:artist:2IbY4ReOysoyohYCTy0cZs",
+      "monthly_listeners": 7,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/2IbY4ReOysoyohYCTy0cZs"
+      },
+      "first_seen": "2026-09-01T11:02:40",
+      "last_seen": "2026-09-01T11:02:40",
+      "active_year": 2026,
+      "last_release": {
+        "id": "13x8xFRhYDwSjLhz7P5CZF",
+        "name": "New Wave",
+        "url": "https://open.spotify.com/album/13x8xFRhYDwSjLhz7P5CZF",
+        "release_date": "2026-11-27"
+      }
+    },
+    "4GuH2zpRugdKrgDhJZfcLo": {
+      "id": "4GuH2zpRugdKrgDhJZfcLo",
+      "name": "Darius4real",
+      "url": "https://open.spotify.com/intl-fr/artist/4GuH2zpRugdKrgDhJZfcLo",
+      "uri": "spotify:artist:4GuH2zpRugdKrgDhJZfcLo",
+      "monthly_listeners": 4097,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/4GuH2zpRugdKrgDhJZfcLo"
+      },
+      "first_seen": "2026-09-21T20:21:00+00:00",
+      "last_seen": "2026-09-21T20:21:00+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "1cVYw5zxQrRredSht9K57P",
+        "name": "Parle SA",
+        "url": "https://open.spotify.com/album/1cVYw5zxQrRredSht9K57P",
+        "release_date": "2026-05-29"
+      }
+    },
+    "6AFZVicjuz1JqXhaWgC4cs": {
+      "id": "6AFZVicjuz1JqXhaWgC4cs",
+      "name": "Nino Blaq",
+      "url": "https://open.spotify.com/intl-fr/artist/6AFZVicjuz1JqXhaWgC4cs",
+      "uri": "spotify:artist:6AFZVicjuz1JqXhaWgC4cs",
+      "monthly_listeners": 5,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/6AFZVicjuz1JqXhaWgC4cs"
+      },
+      "first_seen": "2026-09-25T18:46:38+00:00",
+      "last_seen": "2026-09-25T18:46:38+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "2peggm5ImlUCVbCNAo5h12",
+        "name": "Jamming",
+        "url": "https://open.spotify.com/album/2peggm5ImlUCVbCNAo5h12",
+        "release_date": "2026-11-25"
+      }
+    },
+    "544okyaCpuFXNE37J3QQQ5": {
+      "id": "544okyaCpuFXNE37J3QQQ5",
+      "name": "ESCO",
+      "url": "https://open.spotify.com/intl-fr/artist/544okyaCpuFXNE37J3QQQ5",
+      "uri": "spotify:artist:544okyaCpuFXNE37J3QQQ5",
+      "monthly_listeners": 54,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/544okyaCpuFXNE37J3QQQ5"
+      },
+      "first_seen": "2026-09-27T14:14:06+00:00",
+      "last_seen": "2026-09-27T14:14:06+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "0kNGMIWmQKaC9qkZPCtJef",
+        "name": "dougie!",
+        "url": "https://open.spotify.com/album/0kNGMIWmQKaC9qkZPCtJef",
+        "release_date": "2026-07-10"
+      }
+    },
+    "15McO2f8G7szR4va8BuOD3": {
+      "id": "15McO2f8G7szR4va8BuOD3",
+      "name": "Deyanj",
+      "url": "https://open.spotify.com/intl-fr/artist/15McO2f8G7szR4va8BuOD3",
+      "uri": "spotify:artist:15McO2f8G7szR4va8BuOD3",
+      "monthly_listeners": 4275,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/15McO2f8G7szR4va8BuOD3"
+      },
+      "first_seen": "2026-09-29T20:44:56+00:00",
+      "last_seen": "2026-09-29T20:44:56+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "14rT7uKytyITZCTY6CsgJ2",
+        "name": "Needed You",
+        "url": "https://open.spotify.com/album/14rT7uKytyITZCTY6CsgJ2",
+        "release_date": "2026-11-27"
+      }
+    },
+    "15Z9inYlbsuiXzOKYAkzI9": {
+      "id": "15Z9inYlbsuiXzOKYAkzI9",
+      "name": "Raphbillz",
+      "url": "https://open.spotify.com/intl-fr/artist/15Z9inYlbsuiXzOKYAkzI9",
+      "uri": "spotify:artist:15Z9inYlbsuiXzOKYAkzI9",
+      "monthly_listeners": 676,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/15Z9inYlbsuiXzOKYAkzI9"
+      },
+      "first_seen": "2026-09-07T23:21:19",
+      "last_seen": "2026-09-07T23:21:19",
+      "active_year": 2026,
+      "last_release": {
+        "id": "3iJUz4GCcckkKyQrloRecr",
+        "name": "FIND ME",
+        "url": "https://open.spotify.com/album/3iJUz4GCcckkKyQrloRecr",
+        "release_date": "2026-08-15"
+      }
+    },
+    "1CuRX0uP8zezIBWd2GZbQg": {
+      "id": "1CuRX0uP8zezIBWd2GZbQg",
+      "name": "Raporter",
+      "url": "https://open.spotify.com/intl-fr/artist/1CuRX0uP8zezIBWd2GZbQg",
+      "uri": "spotify:artist:1CuRX0uP8zezIBWd2GZbQg",
+      "monthly_listeners": 290,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/1CuRX0uP8zezIBWd2GZbQg"
+      },
+      "first_seen": "2026-09-10T16:41:34",
+      "last_seen": "2026-09-10T16:41:34",
+      "active_year": 2026,
+      "last_release": {
+        "id": "2PXleDt0qHnUJFTFHgLhxc",
+        "name": "Parakratos",
+        "url": "https://open.spotify.com/album/2PXleDt0qHnUJFTFHgLhxc",
+        "release_date": "2026-11-27"
+      }
+    },
+    "0RMTnUizOizVW7u5gQBvev": {
+      "id": "0RMTnUizOizVW7u5gQBvev",
+      "name": "Young_D",
+      "url": "https://open.spotify.com/intl-fr/artist/0RMTnUizOizVW7u5gQBvev",
+      "uri": "spotify:artist:0RMTnUizOizVW7u5gQBvev",
+      "monthly_listeners": 126,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/0RMTnUizOizVW7u5gQBvev"
+      },
+      "first_seen": "2026-09-11T20:56:06",
+      "last_seen": "2026-09-11T20:56:06",
+      "active_year": 2026,
+      "last_release": {
+        "id": "1JdW45VzMD7yZLruvmaXmh",
+        "name": "Tout recommencer",
+        "url": "https://open.spotify.com/album/1JdW45VzMD7yZLruvmaXmh",
+        "release_date": "2026-11-27"
+      }
+    },
+    "4OdSOhZQgPRFXryg8ztxjc": {
+      "id": "4OdSOhZQgPRFXryg8ztxjc",
+      "name": "Holy A",
+      "url": "https://open.spotify.com/intl-fr/artist/4OdSOhZQgPRFXryg8ztxjc",
+      "uri": "spotify:artist:4OdSOhZQgPRFXryg8ztxjc",
+      "monthly_listeners": 20,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/4OdSOhZQgPRFXryg8ztxjc"
+      },
+      "first_seen": "2026-09-21T23:45:12+00:00",
+      "last_seen": "2026-09-21T23:45:12+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "7wqOcvcKh4dxUfwQabTUpA",
+        "name": "BMW",
+        "url": "https://open.spotify.com/album/7wqOcvcKh4dxUfwQabTUpA",
+        "release_date": "2026-11-27"
+      }
+    },
+    "2Snxi60rEUjBxV4ImUSAqz": {
+      "id": "2Snxi60rEUjBxV4ImUSAqz",
+      "name": "Geek MC",
+      "url": "https://open.spotify.com/intl-fr/artist/2Snxi60rEUjBxV4ImUSAqz",
+      "uri": "spotify:artist:2Snxi60rEUjBxV4ImUSAqz",
+      "monthly_listeners": 19,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/2Snxi60rEUjBxV4ImUSAqz"
+      },
+      "first_seen": "2026-09-23T00:59:38+00:00",
+      "last_seen": "2026-09-23T00:59:38+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "5us5ievWrrlsOlwrxW9PVf",
+        "name": "Se Tudo é Arte, Nada é Arte",
+        "url": "https://open.spotify.com/album/5us5ievWrrlsOlwrxW9PVf",
+        "release_date": "2026-11-27"
+      }
+    },
+    "3MTZZJFUgXIGBtnQmYzvyp": {
+      "id": "3MTZZJFUgXIGBtnQmYzvyp",
+      "name": "EduxShawty",
+      "url": "https://open.spotify.com/intl-fr/artist/3MTZZJFUgXIGBtnQmYzvyp",
+      "uri": "spotify:artist:3MTZZJFUgXIGBtnQmYzvyp",
+      "monthly_listeners": 10,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/3MTZZJFUgXIGBtnQmYzvyp"
+      },
+      "first_seen": "2026-09-23T23:39:55+00:00",
+      "last_seen": "2026-09-23T23:39:55+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "0d4zGYb3l9yKBejpceUmql",
+        "name": "DORES DO PASSADO",
+        "url": "https://open.spotify.com/album/0d4zGYb3l9yKBejpceUmql",
+        "release_date": "2026-11-26"
+      }
+    },
+    "4aRx5IHqle5yBJKeJNdYrO": {
+      "id": "4aRx5IHqle5yBJKeJNdYrO",
+      "name": "Rood'Boi",
+      "url": "https://open.spotify.com/intl-fr/artist/4aRx5IHqle5yBJKeJNdYrO",
+      "uri": "spotify:artist:4aRx5IHqle5yBJKeJNdYrO",
+      "monthly_listeners": 23,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/4aRx5IHqle5yBJKeJNdYrO"
+      },
+      "first_seen": "2026-09-01T13:45:00",
+      "last_seen": "2026-09-01T13:45:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "5XncE9vdHU1Uo96LvgNBKW",
+        "name": "Cold Feelings",
+        "url": "https://open.spotify.com/album/5XncE9vdHU1Uo96LvgNBKW",
+        "release_date": "2026-11-26"
+      }
+    },
+    "4uu8v1zz5xzPybRFGv8Uhq": {
+      "id": "4uu8v1zz5xzPybRFGv8Uhq",
+      "name": "Jey y El Shaara",
+      "url": "https://open.spotify.com/intl-fr/artist/4uu8v1zz5xzPybRFGv8Uhq",
+      "uri": "spotify:artist:4uu8v1zz5xzPybRFGv8Uhq",
+      "monthly_listeners": 1135,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/4uu8v1zz5xzPybRFGv8Uhq"
+      },
+      "first_seen": "2026-09-25T07:55:42+00:00",
+      "last_seen": "2026-09-25T07:55:42+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "2ELWtHV8n1jTeGr68OKZdc",
+        "name": "TODA",
+        "url": "https://open.spotify.com/album/2ELWtHV8n1jTeGr68OKZdc",
+        "release_date": "2026-11-20"
+      }
+    },
+    "26n9A87idLzExHuQBEKTFF": {
+      "id": "26n9A87idLzExHuQBEKTFF",
+      "name": "NAGÄ",
+      "url": "https://open.spotify.com/intl-fr/artist/26n9A87idLzExHuQBEKTFF",
+      "uri": "spotify:artist:26n9A87idLzExHuQBEKTFF",
+      "monthly_listeners": 15280,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/26n9A87idLzExHuQBEKTFF"
+      },
+      "first_seen": "2026-09-24T04:36:23+00:00",
+      "last_seen": "2026-09-24T04:36:23+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "3i4XYIyoAgSW8CYKpKTgxs",
+        "name": "Les mots les larmes",
+        "url": "https://open.spotify.com/album/3i4XYIyoAgSW8CYKpKTgxs",
+        "release_date": "2026-11-25"
+      }
+    },
+    "2Bax0AQouyPjAV0DiYLAHC": {
+      "id": "2Bax0AQouyPjAV0DiYLAHC",
+      "name": "Hazzo",
+      "url": "https://open.spotify.com/intl-fr/artist/2Bax0AQouyPjAV0DiYLAHC",
+      "uri": "spotify:artist:2Bax0AQouyPjAV0DiYLAHC",
+      "monthly_listeners": 27,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/2Bax0AQouyPjAV0DiYLAHC"
+      },
+      "first_seen": "2026-09-26T22:56:24+00:00",
+      "last_seen": "2026-09-26T22:56:24+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "1jlMaLVbVj6aG2kW6teG6L",
+        "name": "Bla bla bla",
+        "url": "https://open.spotify.com/album/1jlMaLVbVj6aG2kW6teG6L",
+        "release_date": "2026-11-26"
+      }
+    },
+    "4k3Mk8BtFGfLZduBA4lsef": {
+      "id": "4k3Mk8BtFGfLZduBA4lsef",
+      "name": "Yfg Reeski",
+      "url": "https://open.spotify.com/intl-fr/artist/4k3Mk8BtFGfLZduBA4lsef",
+      "uri": "spotify:artist:4k3Mk8BtFGfLZduBA4lsef",
+      "monthly_listeners": 33,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/4k3Mk8BtFGfLZduBA4lsef"
+      },
+      "first_seen": "2026-09-27T14:25:44+00:00",
+      "last_seen": "2026-09-27T14:25:44+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "7m0qC9wv1qT2MIDIU24P3X",
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/7m0qC9wv1qT2MIDIU24P3X",
+        "release_date": "2026-09-23"
+      }
+    },
+    "7D8SMFJ0lHoQO5eBe5Gpyq": {
+      "id": "7D8SMFJ0lHoQO5eBe5Gpyq",
+      "name": "OFICIALRZ",
+      "url": "https://open.spotify.com/intl-fr/artist/7D8SMFJ0lHoQO5eBe5Gpyq",
+      "uri": "spotify:artist:7D8SMFJ0lHoQO5eBe5Gpyq",
+      "monthly_listeners": 30,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/7D8SMFJ0lHoQO5eBe5Gpyq"
+      },
+      "first_seen": "2026-09-29T08:12:32+00:00",
+      "last_seen": "2026-09-29T08:12:32+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "17dRGWg8ehrCz9de2KYplo",
+        "name": "STATE OF BALANCE",
+        "url": "https://open.spotify.com/album/17dRGWg8ehrCz9de2KYplo",
+        "release_date": "2026-11-27"
+      }
+    },
+    "0XQh8wZLJeYZZJauFqcaz5": {
+      "id": "0XQh8wZLJeYZZJauFqcaz5",
+      "name": "Ola Svarna",
+      "url": "https://open.spotify.com/intl-fr/artist/0XQh8wZLJeYZZJauFqcaz5",
+      "uri": "spotify:artist:0XQh8wZLJeYZZJauFqcaz5",
+      "monthly_listeners": 152,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/0XQh8wZLJeYZZJauFqcaz5"
+      },
+      "first_seen": "2026-09-10T15:57:44",
+      "last_seen": "2026-09-10T15:57:44",
+      "active_year": 2026,
+      "last_release": {
+        "id": "2PXleDt0qHnUJFTFHgLhxc",
+        "name": "Parakratos",
+        "url": "https://open.spotify.com/album/2PXleDt0qHnUJFTFHgLhxc",
+        "release_date": "2026-11-27"
+      }
+    },
+    "4eFy2spUCtUFSPX4RoonTz": {
+      "id": "4eFy2spUCtUFSPX4RoonTz",
+      "name": "Ballah D",
+      "url": "https://open.spotify.com/intl-fr/artist/4eFy2spUCtUFSPX4RoonTz",
+      "uri": "spotify:artist:4eFy2spUCtUFSPX4RoonTz",
+      "monthly_listeners": 39,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/4eFy2spUCtUFSPX4RoonTz"
+      },
+      "first_seen": "2026-09-11T20:52:51",
+      "last_seen": "2026-09-11T20:52:51",
+      "active_year": 2026,
+      "last_release": {
+        "id": "48RzZZHhyKz2fPP6DuQOoh",
+        "name": "Stoïcien",
+        "url": "https://open.spotify.com/album/48RzZZHhyKz2fPP6DuQOoh",
+        "release_date": "2026-01-02"
+      }
+    },
+    "6sytZkQ4PxaIw6SP4goeuR": {
+      "id": "6sytZkQ4PxaIw6SP4goeuR",
+      "name": "Lil Fear",
+      "url": "https://open.spotify.com/intl-fr/artist/6sytZkQ4PxaIw6SP4goeuR",
+      "uri": "spotify:artist:6sytZkQ4PxaIw6SP4goeuR",
+      "monthly_listeners": 31,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/6sytZkQ4PxaIw6SP4goeuR"
+      },
+      "first_seen": "2026-09-23T00:51:34+00:00",
+      "last_seen": "2026-09-23T00:51:34+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "2dBwZ24FJi09djvTrVFIs6",
+        "name": "Geeked Energy",
+        "url": "https://open.spotify.com/album/2dBwZ24FJi09djvTrVFIs6",
+        "release_date": "2026-11-27"
+      }
+    },
+    "56n4yqNuGlnK2wRViy0FS5": {
+      "id": "56n4yqNuGlnK2wRViy0FS5",
+      "name": "VZZINN",
+      "url": "https://open.spotify.com/intl-fr/artist/56n4yqNuGlnK2wRViy0FS5",
+      "uri": "spotify:artist:56n4yqNuGlnK2wRViy0FS5",
+      "monthly_listeners": 4,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/56n4yqNuGlnK2wRViy0FS5"
+      },
+      "first_seen": "2026-09-23T00:36:08+00:00",
+      "last_seen": "2026-09-23T00:36:08+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "3rdiome2FZA9nTKokQqUkp",
+        "name": "O Conto da Caverna",
+        "url": "https://open.spotify.com/album/3rdiome2FZA9nTKokQqUkp",
+        "release_date": "2026-11-25"
+      }
+    },
+    "5T1XLNO0gQklhppm5DMOKt": {
+      "id": "5T1XLNO0gQklhppm5DMOKt",
+      "name": "br9ncog",
+      "url": "https://open.spotify.com/intl-fr/artist/5T1XLNO0gQklhppm5DMOKt",
+      "uri": "spotify:artist:5T1XLNO0gQklhppm5DMOKt",
+      "monthly_listeners": 16,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/5T1XLNO0gQklhppm5DMOKt"
+      },
+      "first_seen": "2026-09-23T23:43:46+00:00",
+      "last_seen": "2026-09-23T23:43:46+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "4RlmVUxQvSH6tlfdEUls6y",
+        "name": "Mosca",
+        "url": "https://open.spotify.com/album/4RlmVUxQvSH6tlfdEUls6y",
+        "release_date": "2026-11-27"
+      }
+    },
+    "6EasyLgMiq2kBqbbdTgRmo": {
+      "id": "6EasyLgMiq2kBqbbdTgRmo",
+      "name": "CYEM",
+      "url": "https://open.spotify.com/intl-fr/artist/6EasyLgMiq2kBqbbdTgRmo",
+      "uri": "spotify:artist:6EasyLgMiq2kBqbbdTgRmo",
+      "monthly_listeners": 87,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/6EasyLgMiq2kBqbbdTgRmo"
+      },
+      "first_seen": "2026-08-30T15:54:18",
+      "last_seen": "2026-08-30T15:54:18",
+      "active_year": 2026,
+      "last_release": {
+        "id": "6FXMrlnvXmbDkRr0wr5I9e",
+        "name": "J'aurais pas dû",
+        "url": "https://open.spotify.com/album/6FXMrlnvXmbDkRr0wr5I9e",
+        "release_date": "2026-11-27"
+      }
+    },
+    "1XQMCHaeMuC36J8ByYRxXN": {
+      "id": "1XQMCHaeMuC36J8ByYRxXN",
+      "name": "BMZ",
+      "url": "https://open.spotify.com/intl-fr/artist/1XQMCHaeMuC36J8ByYRxXN",
+      "uri": "spotify:artist:1XQMCHaeMuC36J8ByYRxXN",
+      "monthly_listeners": 22,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/1XQMCHaeMuC36J8ByYRxXN"
+      },
+      "first_seen": "2026-08-30T17:27:28",
+      "last_seen": "2026-08-30T17:27:28",
+      "active_year": 2026,
+      "last_release": {
+        "id": "2pGcHknQxLLFluDUb8nRcc",
+        "name": "Capi",
+        "url": "https://open.spotify.com/album/2pGcHknQxLLFluDUb8nRcc",
+        "release_date": "2026-11-27"
+      }
+    },
+    "5SfZOeIcZuqylzQ1YLib1f": {
+      "id": "5SfZOeIcZuqylzQ1YLib1f",
+      "name": "official_woobabyy",
+      "url": "https://open.spotify.com/intl-fr/artist/5SfZOeIcZuqylzQ1YLib1f",
+      "uri": "spotify:artist:5SfZOeIcZuqylzQ1YLib1f",
+      "monthly_listeners": 897,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/5SfZOeIcZuqylzQ1YLib1f"
+      },
+      "first_seen": "2026-09-27T01:39:01+00:00",
+      "last_seen": "2026-09-27T01:39:01+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "0JVWfLM0CilyKF4K31gWQ2",
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/0JVWfLM0CilyKF4K31gWQ2",
+        "release_date": "2026-03-21"
+      }
+    },
+    "09mEAA5fI8YLTd2uIliz1X": {
+      "id": "09mEAA5fI8YLTd2uIliz1X",
+      "name": "Kanaye",
+      "url": "https://open.spotify.com/intl-fr/artist/09mEAA5fI8YLTd2uIliz1X",
+      "uri": "spotify:artist:09mEAA5fI8YLTd2uIliz1X",
+      "monthly_listeners": 5760,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/09mEAA5fI8YLTd2uIliz1X"
+      },
+      "first_seen": "2026-09-08T16:42:22",
+      "last_seen": "2026-09-08T16:42:22",
+      "active_year": 2026,
+      "last_release": {
+        "id": "0iqPkRO7Rih4duw6Ga2uR6",
+        "name": "N°6",
+        "url": "https://open.spotify.com/album/0iqPkRO7Rih4duw6Ga2uR6",
+        "release_date": "2026-11-27"
+      }
+    },
+    "76SEyuMVMJocSVQ0QafjkY": {
+      "id": "76SEyuMVMJocSVQ0QafjkY",
+      "name": "JR EM",
+      "url": "https://open.spotify.com/intl-fr/artist/76SEyuMVMJocSVQ0QafjkY",
+      "uri": "spotify:artist:76SEyuMVMJocSVQ0QafjkY",
+      "monthly_listeners": 60,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/76SEyuMVMJocSVQ0QafjkY"
+      },
+      "first_seen": "2026-09-10T19:06:27",
+      "last_seen": "2026-09-10T19:06:27",
+      "active_year": 2026,
+      "last_release": {
+        "id": "5szqd8r2Tan8ncXdiv4Q9k",
+        "name": "No Facile",
+        "url": "https://open.spotify.com/album/5szqd8r2Tan8ncXdiv4Q9k",
+        "release_date": "2026-06-12"
+      }
+    },
+    "6GAkuXWXdf3PTjqHKarrn2": {
+      "id": "6GAkuXWXdf3PTjqHKarrn2",
+      "name": "Hdcrime",
+      "url": "https://open.spotify.com/intl-fr/artist/6GAkuXWXdf3PTjqHKarrn2",
+      "uri": "spotify:artist:6GAkuXWXdf3PTjqHKarrn2",
+      "monthly_listeners": 34,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/6GAkuXWXdf3PTjqHKarrn2"
+      },
+      "first_seen": "2026-09-11T21:38:18",
+      "last_seen": "2026-09-11T21:38:18",
+      "active_year": 2026,
+      "last_release": {
+        "id": "0q7UQJ2JDqkJ72BiEodWsZ",
+        "name": "Périple",
+        "url": "https://open.spotify.com/album/0q7UQJ2JDqkJ72BiEodWsZ",
+        "release_date": "2026-11-27"
+      }
+    },
+    "68SXhPrAMob9zUp149VLtN": {
+      "id": "68SXhPrAMob9zUp149VLtN",
+      "name": "VN officiel",
+      "url": "https://open.spotify.com/intl-fr/artist/68SXhPrAMob9zUp149VLtN",
+      "uri": "spotify:artist:68SXhPrAMob9zUp149VLtN",
+      "monthly_listeners": 30,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/68SXhPrAMob9zUp149VLtN"
+      },
+      "first_seen": "2026-08-30T16:16:57",
+      "last_seen": "2026-08-30T16:16:57",
+      "active_year": 2026,
+      "last_release": {
+        "id": "1KyE69OgBboli6tTIlAVxt",
+        "name": "ELLE",
+        "url": "https://open.spotify.com/album/1KyE69OgBboli6tTIlAVxt",
+        "release_date": "2026-11-28"
+      }
+    },
+    "0gKz850UFSfv8IZWKsSJgS": {
+      "id": "0gKz850UFSfv8IZWKsSJgS",
+      "name": "Nixo",
+      "url": "https://open.spotify.com/intl-fr/artist/0gKz850UFSfv8IZWKsSJgS",
+      "uri": "spotify:artist:0gKz850UFSfv8IZWKsSJgS",
+      "monthly_listeners": 4931,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/0gKz850UFSfv8IZWKsSJgS"
+      },
+      "first_seen": "2026-09-06T15:09:06",
+      "last_seen": "2026-09-06T15:09:06",
+      "active_year": 2026,
+      "last_release": {
+        "id": "3mpJAlECW0C7xqjdRVKCZ6",
+        "name": "2x Boom",
+        "url": "https://open.spotify.com/album/3mpJAlECW0C7xqjdRVKCZ6",
+        "release_date": "2026-11-26"
+      }
+    },
+    "6gTgMS1SGuCzxPze1uQLd0": {
+      "id": "6gTgMS1SGuCzxPze1uQLd0",
+      "name": "Pagesstardom",
+      "url": "https://open.spotify.com/intl-fr/artist/6gTgMS1SGuCzxPze1uQLd0",
+      "uri": "spotify:artist:6gTgMS1SGuCzxPze1uQLd0",
+      "monthly_listeners": 8,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/6gTgMS1SGuCzxPze1uQLd0"
+      },
+      "first_seen": "2026-09-06T19:39:24",
+      "last_seen": "2026-09-06T19:39:24",
+      "active_year": 2026,
+      "last_release": {
+        "id": "29JiYUPMCPrbcXjKvZ6Bhk",
+        "name": "Love & Damage",
+        "url": "https://open.spotify.com/album/29JiYUPMCPrbcXjKvZ6Bhk",
+        "release_date": "2026-11-27"
+      }
+    },
+    "6SCyNbCQDLpNuGKNoIWrCT": {
+      "id": "6SCyNbCQDLpNuGKNoIWrCT",
+      "name": "Lummy",
+      "url": "https://open.spotify.com/intl-fr/artist/6SCyNbCQDLpNuGKNoIWrCT",
+      "uri": "spotify:artist:6SCyNbCQDLpNuGKNoIWrCT",
+      "monthly_listeners": 11,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/6SCyNbCQDLpNuGKNoIWrCT"
+      },
+      "first_seen": "2026-09-17T10:17:58",
+      "last_seen": "2026-09-17T10:17:58",
+      "active_year": 2026,
+      "last_release": {
+        "id": "6hWTuPnrucIfGCAqpSK8IO",
+        "name": "Juízo Final",
+        "url": "https://open.spotify.com/album/6hWTuPnrucIfGCAqpSK8IO",
+        "release_date": "2026-11-27"
+      }
+    },
+    "0cHtSSgPhNNp9ePXUVWH5x": {
+      "id": "0cHtSSgPhNNp9ePXUVWH5x",
+      "name": "Snuck",
+      "url": "https://open.spotify.com/intl-fr/artist/0cHtSSgPhNNp9ePXUVWH5x",
+      "uri": "spotify:artist:0cHtSSgPhNNp9ePXUVWH5x",
+      "monthly_listeners": 22,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/0cHtSSgPhNNp9ePXUVWH5x"
+      },
+      "first_seen": "2026-09-20T23:17:05+00:00",
+      "last_seen": "2026-09-20T23:17:05+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "67RHafX4SW6QPhOagQuYGy",
+        "name": "Sp",
+        "url": "https://open.spotify.com/album/67RHafX4SW6QPhOagQuYGy",
+        "release_date": "2026-11-26"
+      }
+    },
+    "0fyyMLNYPHcXdcx54BvMet": {
+      "id": "0fyyMLNYPHcXdcx54BvMet",
+      "name": "Liway_art",
+      "url": "https://open.spotify.com/intl-fr/artist/0fyyMLNYPHcXdcx54BvMet",
+      "uri": "spotify:artist:0fyyMLNYPHcXdcx54BvMet",
+      "monthly_listeners": 9,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/0fyyMLNYPHcXdcx54BvMet"
+      },
+      "first_seen": "2026-09-20T11:58:08+00:00",
+      "last_seen": "2026-09-20T11:58:08+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "4JJ4dutCy5mgdP8uC8gBA5",
+        "name": "Tdv 1 (Remix)",
+        "url": "https://open.spotify.com/album/4JJ4dutCy5mgdP8uC8gBA5",
+        "release_date": "2026-11-28"
+      }
+    },
+    "2Dl7S0daCFQyc2Nyr47Ko3": {
+      "id": "2Dl7S0daCFQyc2Nyr47Ko3",
+      "name": "CHAVI",
+      "url": "https://open.spotify.com/intl-fr/artist/2Dl7S0daCFQyc2Nyr47Ko3",
+      "uri": "spotify:artist:2Dl7S0daCFQyc2Nyr47Ko3",
+      "monthly_listeners": 23636,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/2Dl7S0daCFQyc2Nyr47Ko3"
+      },
+      "first_seen": "2026-09-27T18:21:45+00:00",
+      "last_seen": "2026-09-27T18:21:45+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "52TGXgYdlTchb0XMesK7ip",
+        "name": "NO REF ENCORE",
+        "url": "https://open.spotify.com/album/52TGXgYdlTchb0XMesK7ip",
+        "release_date": "2026-11-27"
+      }
+    },
+    "2OOYpKIQBA2hPkXvk2fJDI": {
+      "id": "2OOYpKIQBA2hPkXvk2fJDI",
+      "name": "JMB Drippy",
+      "url": "https://open.spotify.com/intl-fr/artist/2OOYpKIQBA2hPkXvk2fJDI",
+      "uri": "spotify:artist:2OOYpKIQBA2hPkXvk2fJDI",
+      "monthly_listeners": 17172,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/2OOYpKIQBA2hPkXvk2fJDI"
+      },
+      "first_seen": "2026-09-17T13:26:00",
+      "last_seen": "2026-09-17T13:26:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "011krUiisqYqivKr5dL9dz",
+        "name": "High Voltage Session #4: JMB Drippy",
+        "url": "https://open.spotify.com/album/011krUiisqYqivKr5dL9dz",
+        "release_date": "2026-11-27"
+      }
+    },
+    "3P2fWJLmmsPS1M1zVjltxl": {
+      "id": "3P2fWJLmmsPS1M1zVjltxl",
+      "name": "Horseck",
+      "url": "https://open.spotify.com/intl-fr/artist/3P2fWJLmmsPS1M1zVjltxl",
+      "uri": "spotify:artist:3P2fWJLmmsPS1M1zVjltxl",
+      "monthly_listeners": 843,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/3P2fWJLmmsPS1M1zVjltxl"
+      },
+      "first_seen": "2026-09-21T23:05:59+00:00",
+      "last_seen": "2026-09-21T23:05:59+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "4rjMdfSjyoCnB9enEw2ZFK",
+        "name": "BORÉALE",
+        "url": "https://open.spotify.com/album/4rjMdfSjyoCnB9enEw2ZFK",
+        "release_date": "2026-11-26"
+      }
+    },
+    "0y2U6fq7nlMxSzDlOPxTVT": {
+      "id": "0y2U6fq7nlMxSzDlOPxTVT",
+      "name": "BadmanJc",
+      "url": "https://open.spotify.com/intl-fr/artist/0y2U6fq7nlMxSzDlOPxTVT",
+      "uri": "spotify:artist:0y2U6fq7nlMxSzDlOPxTVT",
+      "monthly_listeners": 19,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/0y2U6fq7nlMxSzDlOPxTVT"
+      },
+      "first_seen": "2026-09-23T05:54:10+00:00",
+      "last_seen": "2026-09-23T05:54:10+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "2NjEHwlqGsF5TsBCcUoa1H",
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/2NjEHwlqGsF5TsBCcUoa1H",
+        "release_date": "2026-11-27"
+      }
+    },
+    "1CRli7EYRi59aJNOnbyBfN": {
+      "id": "1CRli7EYRi59aJNOnbyBfN",
+      "name": "Lucio",
+      "url": "https://open.spotify.com/intl-fr/artist/1CRli7EYRi59aJNOnbyBfN",
+      "uri": "spotify:artist:1CRli7EYRi59aJNOnbyBfN",
+      "monthly_listeners": 88,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/1CRli7EYRi59aJNOnbyBfN"
+      },
+      "first_seen": "2026-09-20T05:22:21+00:00",
+      "last_seen": "2026-09-20T05:22:21+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "4r3JRXpklbWoqXGMeYXu2E",
+        "name": "3ème tableau",
+        "url": "https://open.spotify.com/album/4r3JRXpklbWoqXGMeYXu2E",
+        "release_date": "2026-11-27"
+      }
+    },
+    "0pAVwMOX5ciNG6LgI7x9Jc": {
+      "id": "0pAVwMOX5ciNG6LgI7x9Jc",
+      "name": "Odah.",
+      "url": "https://open.spotify.com/intl-fr/artist/0pAVwMOX5ciNG6LgI7x9Jc",
+      "uri": "spotify:artist:0pAVwMOX5ciNG6LgI7x9Jc",
+      "monthly_listeners": 101,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/0pAVwMOX5ciNG6LgI7x9Jc"
+      },
+      "first_seen": "2026-09-17T12:03:13",
+      "last_seen": "2026-09-17T12:03:13",
+      "active_year": 2026,
+      "last_release": {
+        "id": "6gGC3XeVCNzM3aR3TaWuyC",
+        "name": "Séquoia",
+        "url": "https://open.spotify.com/album/6gGC3XeVCNzM3aR3TaWuyC",
+        "release_date": "2026-11-27"
+      }
+    },
+    "5q46atpW3ivO55T42DdAQl": {
+      "id": "5q46atpW3ivO55T42DdAQl",
+      "name": "Kolsone",
+      "url": "https://open.spotify.com/intl-fr/artist/5q46atpW3ivO55T42DdAQl",
+      "uri": "spotify:artist:5q46atpW3ivO55T42DdAQl",
+      "monthly_listeners": null,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/5q46atpW3ivO55T42DdAQl"
+      },
+      "first_seen": "2026-09-22T09:56:23+00:00",
+      "last_seen": "2026-09-22T09:56:23+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "5eYlPEaXraTMwtb8OUMGNQ",
+        "name": "Winning Bets",
+        "url": "https://open.spotify.com/album/5eYlPEaXraTMwtb8OUMGNQ",
+        "release_date": "2026-11-25"
+      }
+    },
+    "6naYqsfaJ8CtBP7K3TYuPO": {
+      "id": "6naYqsfaJ8CtBP7K3TYuPO",
+      "name": "Z!n!",
+      "url": "https://open.spotify.com/intl-fr/artist/6naYqsfaJ8CtBP7K3TYuPO",
+      "uri": "spotify:artist:6naYqsfaJ8CtBP7K3TYuPO",
+      "monthly_listeners": 6,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/6naYqsfaJ8CtBP7K3TYuPO"
+      },
+      "first_seen": "2026-09-24T04:16:23+00:00",
+      "last_seen": "2026-09-24T04:16:23+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "2lCjrxa46OaVfujPFRflVy",
+        "name": "LotS OF LovE TO GivE",
+        "url": "https://open.spotify.com/album/2lCjrxa46OaVfujPFRflVy",
+        "release_date": "2026-11-26"
+      }
+    },
+    "7yfs4Dw6jaSn2bSsRffPSW": {
+      "id": "7yfs4Dw6jaSn2bSsRffPSW",
+      "name": "Odroz",
+      "url": "https://open.spotify.com/intl-fr/artist/7yfs4Dw6jaSn2bSsRffPSW",
+      "uri": "spotify:artist:7yfs4Dw6jaSn2bSsRffPSW",
+      "monthly_listeners": 121,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/7yfs4Dw6jaSn2bSsRffPSW"
+      },
+      "first_seen": "2026-09-26T01:56:56+00:00",
+      "last_seen": "2026-09-26T01:56:56+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "2015IrDsO0gYuwyP1yuLXX",
+        "name": "Milgram",
+        "url": "https://open.spotify.com/album/2015IrDsO0gYuwyP1yuLXX",
+        "release_date": "2026-11-27"
+      }
+    },
+    "7ASmZPlFtM5FNS4e3gjuvb": {
+      "id": "7ASmZPlFtM5FNS4e3gjuvb",
+      "name": "Smart khiddy",
+      "url": "https://open.spotify.com/intl-fr/artist/7ASmZPlFtM5FNS4e3gjuvb",
+      "uri": "spotify:artist:7ASmZPlFtM5FNS4e3gjuvb",
+      "monthly_listeners": 127,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/7ASmZPlFtM5FNS4e3gjuvb"
+      },
+      "first_seen": "2026-09-26T22:47:26+00:00",
+      "last_seen": "2026-09-26T22:47:26+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "1CYzQRdRk5A0urbxYbtMPw",
+        "name": "Friendly",
+        "url": "https://open.spotify.com/album/1CYzQRdRk5A0urbxYbtMPw",
+        "release_date": "2026-11-27"
+      }
+    },
+    "1XNX0yLNkTNOhu7TO92QxD": {
+      "id": "1XNX0yLNkTNOhu7TO92QxD",
+      "name": "Orion & Edios",
+      "url": "https://open.spotify.com/intl-fr/artist/1XNX0yLNkTNOhu7TO92QxD",
+      "uri": "spotify:artist:1XNX0yLNkTNOhu7TO92QxD",
+      "monthly_listeners": 110,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/1XNX0yLNkTNOhu7TO92QxD"
+      },
+      "first_seen": "2026-09-10T14:22:30",
+      "last_seen": "2026-09-10T14:22:30",
+      "active_year": 2026,
+      "last_release": {
+        "id": "0xn370jqroKG4jUiN47PJ2",
+        "name": "Ecchymoses",
+        "url": "https://open.spotify.com/album/0xn370jqroKG4jUiN47PJ2",
+        "release_date": "2026-11-27"
+      }
+    },
+    "2n7eKXcxry0xozyTaKPhZA": {
+      "id": "2n7eKXcxry0xozyTaKPhZA",
+      "name": "DOC",
+      "url": "https://open.spotify.com/intl-fr/artist/2n7eKXcxry0xozyTaKPhZA",
+      "uri": "spotify:artist:2n7eKXcxry0xozyTaKPhZA",
+      "monthly_listeners": 70,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/2n7eKXcxry0xozyTaKPhZA"
+      },
+      "first_seen": "2026-09-15T12:10:13",
+      "last_seen": "2026-09-15T12:10:13",
+      "active_year": 2026,
+      "last_release": {
+        "id": "2eXw4XV4f3GgJCaEXsYCGC",
+        "name": "Benz",
+        "url": "https://open.spotify.com/album/2eXw4XV4f3GgJCaEXsYCGC",
+        "release_date": "2026-11-27"
+      }
+    },
+    "6V3F8MZrOKdT9fU686ybE9": {
+      "id": "6V3F8MZrOKdT9fU686ybE9",
+      "name": "Mark Morrison",
+      "url": "https://open.spotify.com/intl-fr/artist/6V3F8MZrOKdT9fU686ybE9",
+      "uri": "spotify:artist:6V3F8MZrOKdT9fU686ybE9",
+      "monthly_listeners": 7983657,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/6V3F8MZrOKdT9fU686ybE9"
+      },
+      "first_seen": "2026-09-26T20:31:30+00:00",
+      "last_seen": "2026-09-26T20:31:30+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "5FiGGk4rFYnLykXgJmduo4",
+        "name": "Innocent Man (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5FiGGk4rFYnLykXgJmduo4",
+        "release_date": "2026-11-27"
+      }
+    },
+    "5h3FfuKL7b1xNTJomzFf3e": {
+      "id": "5h3FfuKL7b1xNTJomzFf3e",
+      "name": "P-legend",
+      "url": "https://open.spotify.com/intl-fr/artist/5h3FfuKL7b1xNTJomzFf3e",
+      "uri": "spotify:artist:5h3FfuKL7b1xNTJomzFf3e",
+      "monthly_listeners": 143,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/5h3FfuKL7b1xNTJomzFf3e"
+      },
+      "first_seen": "2026-09-28T06:50:48+00:00",
+      "last_seen": "2026-09-28T06:50:48+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "59ceIBZYOVmSa0spfuRhQ4",
+        "name": "Outside and Where the Money Dey?",
+        "url": "https://open.spotify.com/album/59ceIBZYOVmSa0spfuRhQ4",
+        "release_date": "2026-11-25"
+      }
+    },
+    "1gdHZevMMVi5lhgdDdtYCP": {
+      "id": "1gdHZevMMVi5lhgdDdtYCP",
+      "name": "Fidely",
+      "url": "https://open.spotify.com/intl-fr/artist/1gdHZevMMVi5lhgdDdtYCP",
+      "uri": "spotify:artist:1gdHZevMMVi5lhgdDdtYCP",
+      "monthly_listeners": 6,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/1gdHZevMMVi5lhgdDdtYCP"
+      },
+      "first_seen": "2026-09-20T06:28:18+00:00",
+      "last_seen": "2026-09-20T06:28:18+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "3XvDefvnvymTWyqKPTtvzF",
+        "name": "Enjoyment",
+        "url": "https://open.spotify.com/album/3XvDefvnvymTWyqKPTtvzF",
+        "release_date": "2026-11-27"
+      }
+    },
+    "784Ry9bYoZ0Wq5xOwERKsJ": {
+      "id": "784Ry9bYoZ0Wq5xOwERKsJ",
+      "name": "Sibla",
+      "url": "https://open.spotify.com/intl-fr/artist/784Ry9bYoZ0Wq5xOwERKsJ",
+      "uri": "spotify:artist:784Ry9bYoZ0Wq5xOwERKsJ",
+      "monthly_listeners": 39,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/784Ry9bYoZ0Wq5xOwERKsJ"
+      },
+      "first_seen": "2026-09-23T00:44:42+00:00",
+      "last_seen": "2026-09-23T00:44:42+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "4A6jwLHmRK06jJGo0iGuOL",
+        "name": "NON CHIAMARMI",
+        "url": "https://open.spotify.com/album/4A6jwLHmRK06jJGo0iGuOL",
+        "release_date": "2026-11-27"
+      }
+    },
+    "1AToNkUZWdYOGQNOKupttx": {
+      "id": "1AToNkUZWdYOGQNOKupttx",
+      "name": "Darvin Vic",
+      "url": "https://open.spotify.com/intl-fr/artist/1AToNkUZWdYOGQNOKupttx",
+      "uri": "spotify:artist:1AToNkUZWdYOGQNOKupttx",
+      "monthly_listeners": 6,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/1AToNkUZWdYOGQNOKupttx"
+      },
+      "first_seen": "2026-09-26T20:26:48+00:00",
+      "last_seen": "2026-09-26T20:26:48+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "5Oy0HwMlSJCsJMiSoM8AXQ",
+        "name": "No More",
+        "url": "https://open.spotify.com/album/5Oy0HwMlSJCsJMiSoM8AXQ",
+        "release_date": "2026-11-23"
+      }
+    },
+    "4i9BI1ZsDeOLmvO012cFI9": {
+      "id": "4i9BI1ZsDeOLmvO012cFI9",
+      "name": "ODM",
+      "url": "https://open.spotify.com/intl-fr/artist/4i9BI1ZsDeOLmvO012cFI9",
+      "uri": "spotify:artist:4i9BI1ZsDeOLmvO012cFI9",
+      "monthly_listeners": 756,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/4i9BI1ZsDeOLmvO012cFI9"
+      },
+      "first_seen": "2026-09-06T23:12:07",
+      "last_seen": "2026-09-06T23:12:07",
+      "active_year": 2026,
+      "last_release": {
+        "id": "5X3kKqmaUL74Se1SH2CiZV",
+        "name": "MAUDIT",
+        "url": "https://open.spotify.com/album/5X3kKqmaUL74Se1SH2CiZV",
+        "release_date": "2026-01-30"
+      }
+    },
+    "6oVpztKEyNInCdtIw56GRy": {
+      "id": "6oVpztKEyNInCdtIw56GRy",
+      "name": "Novacore",
+      "url": "https://open.spotify.com/intl-fr/artist/6oVpztKEyNInCdtIw56GRy",
+      "uri": "spotify:artist:6oVpztKEyNInCdtIw56GRy",
+      "monthly_listeners": 166,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/6oVpztKEyNInCdtIw56GRy"
+      },
+      "first_seen": "2026-09-07T00:23:08",
+      "last_seen": "2026-09-07T00:23:08",
+      "active_year": 2026,
+      "last_release": {
+        "id": "0ttpfr24xPvs4gzqmhvHqq",
+        "name": "Namek Univers vol 2",
+        "url": "https://open.spotify.com/album/0ttpfr24xPvs4gzqmhvHqq",
+        "release_date": "2026-11-27"
+      }
+    },
+    "6He0YCetdG8gOr9ift9yXT": {
+      "id": "6He0YCetdG8gOr9ift9yXT",
+      "name": "Ivoo",
+      "url": "https://open.spotify.com/intl-fr/artist/6He0YCetdG8gOr9ift9yXT",
+      "uri": "spotify:artist:6He0YCetdG8gOr9ift9yXT",
+      "monthly_listeners": 85,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/6He0YCetdG8gOr9ift9yXT"
+      },
+      "first_seen": "2026-09-17T12:27:54",
+      "last_seen": "2026-09-17T12:27:54",
+      "active_year": 2026,
+      "last_release": {
+        "id": "6RlCmcrVbIZorrN5Wpr8ma",
+        "name": "Charnel",
+        "url": "https://open.spotify.com/album/6RlCmcrVbIZorrN5Wpr8ma",
+        "release_date": "2026-11-27"
+      }
+    },
+    "3wb7yMAdthFy7q9VySiHva": {
+      "id": "3wb7yMAdthFy7q9VySiHva",
+      "name": "The Hellroaring",
+      "url": "https://open.spotify.com/intl-fr/artist/3wb7yMAdthFy7q9VySiHva",
+      "uri": "spotify:artist:3wb7yMAdthFy7q9VySiHva",
+      "monthly_listeners": 56,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/3wb7yMAdthFy7q9VySiHva"
+      },
+      "first_seen": "2026-09-23T00:21:24+00:00",
+      "last_seen": "2026-09-23T00:21:24+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "35qcRR34ornZVcJ2igsQOA",
+        "name": "GOOD TIMES",
+        "url": "https://open.spotify.com/album/35qcRR34ornZVcJ2igsQOA",
+        "release_date": "2026-11-20"
+      }
+    },
+    "4msU3twm0Ho3EfLFdjA1VS": {
+      "id": "4msU3twm0Ho3EfLFdjA1VS",
+      "name": "Playxing",
+      "url": "https://open.spotify.com/intl-fr/artist/4msU3twm0Ho3EfLFdjA1VS",
+      "uri": "spotify:artist:4msU3twm0Ho3EfLFdjA1VS",
+      "monthly_listeners": 69,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/4msU3twm0Ho3EfLFdjA1VS"
+      },
+      "first_seen": "2026-09-22T22:18:52+00:00",
+      "last_seen": "2026-09-22T22:18:52+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "5LxRVkWh8ONepOEVAdZCda",
+        "name": "Vivienne Westhood",
+        "url": "https://open.spotify.com/album/5LxRVkWh8ONepOEVAdZCda",
+        "release_date": "2026-02-05"
+      }
+    },
+    "716FdKskFUFLgiujQVbM8F": {
+      "id": "716FdKskFUFLgiujQVbM8F",
+      "name": "Teh Bah",
+      "url": "https://open.spotify.com/intl-fr/artist/716FdKskFUFLgiujQVbM8F",
+      "uri": "spotify:artist:716FdKskFUFLgiujQVbM8F",
+      "monthly_listeners": 9,
+      "genres": [],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/intl-fr/artist/716FdKskFUFLgiujQVbM8F"
+      },
+      "first_seen": "2026-09-26T07:56:53+00:00",
+      "last_seen": "2026-09-26T07:56:53+00:00",
+      "active_year": 2026,
+      "last_release": {
+        "id": "4Y0a4XCSnbMlJUDRawbWhR",
+        "name": "Cana",
+        "url": "https://open.spotify.com/album/4Y0a4XCSnbMlJUDRawbWhR",
+        "release_date": "2026-11-27"
       }
     }
   }
